@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ac33bb8e-2ca3-4f97-a209-0533c34f3def",
+    "firstName": "Amit Kumar",
+    "lastName": "Singh ",
+    "email": "akumarsingh330@gmail.com",
+    "phone": "7739213652",
+    "gender": "Male",
+    "address": "Vill + Po - Balesara Ps- Uchakagaon Dist- Gopalganj",
+    "companyName": "Indixpert",
+    "companyEmail": "indixpert@gmail.com",
+    "companyPhone": "7739213862",
+    "website": "",
+    "industry": "IT",
+    "companyAddress": "Gurgoan new delhi",
+    "createdAt": "2026-06-27T07:51:25.370926",
+    "updatedAt": "2026-06-27T08:50:04.163555"
+  }
+]
